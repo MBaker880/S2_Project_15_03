@@ -7,8 +7,8 @@
 
    Filename: mas_reg2.js
 
-   Author:  
-   Date:    
+   Author: Mackenzie Baker
+   Date:   4.23.2019    
 
 
    Function List
